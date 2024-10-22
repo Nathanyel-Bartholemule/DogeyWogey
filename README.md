@@ -1,4 +1,4 @@
-# Doge Unblocker V4
+# Nateprox v4
 Doge Unblocker is a very powerful, ultra-fast web proxy designed for customization, security, and anonymity.
 ## Features:
 - Advanced Tab Cloaking
