@@ -12,5 +12,7 @@ Nateprox (aka Edge Hub) is a very powerful, ultra-fast web proxy designed for sp
 - Super easy to deploy, only 3 clicks!
 ## Contributors:
 - Derpman
+- Nathanyel-Bartholemule
+- ubgultra
 ## Deployment
 [![Deploy with Vercel](https://binbashbanana.github.io/deploy-buttons/buttons/remade/vercel.svg)](https://vercel.com/new/clone?repositoryurl=https://github.com/dogenetwork/v4)
